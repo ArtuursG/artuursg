@@ -1,6 +1,6 @@
 
 
-### 👋 Hey! I'm Artūrs, I'm an **IT student** exploring the world of software development. This profile showcases my progress — from basic assignments to more complex C++ and Python projects.
+👋 Hey! I'm Artūrs, I'm an **IT student** exploring the world of software development. This profile showcases my progress — from basic assignments to more complex C++ and Python projects.
 
 ---
 
