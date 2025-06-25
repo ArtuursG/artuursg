@@ -18,14 +18,14 @@ Whether it's matrix rotations or class hierarchies — I’m always eager to lea
 
 ---
 
-<table>
-  <tr>
-    <td>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0;">
       <a href="https://tryhackme.com/p/ArtuursG">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/ArtuursG.png" alt="TryHackMe Badge" width="500" />
+        <img src="https://tryhackme-badges.s3.amazonaws.com/ArtuursG.png" alt="TryHackMe Badge" width="250" />
       </a>
     </td>
-    <td style="vertical-align: top; padding-left: 15px;">
+    <td style="border: none; padding-left: 15px; vertical-align: top;">
       🖥️ <strong>TryHackMe</strong> has helped me dive deeper into practical computer networking and web security.<br>
       Thanks to its hands-on approach, I now understand concepts like <i>datortīkli</i> and protocols much better.
     </td>
