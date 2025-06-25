@@ -22,7 +22,7 @@ Whether it's matrix rotations or class hierarchies — I’m always eager to lea
   <tr>
     <td>
       <a href="https://tryhackme.com/p/ArtuursG">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/ArtuursG.png" alt="TryHackMe Badge" width="250" />
+        <img src="https://tryhackme-badges.s3.amazonaws.com/ArtuursG.png" alt="TryHackMe Badge" width="300" />
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
