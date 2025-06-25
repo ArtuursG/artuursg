@@ -15,3 +15,7 @@
 
 I enjoy solving problems, building functional code, and diving deeper into how things work. 
 Whether it's matrix rotations or class hierarchies — I’m always eager to learn more and improve. 🚀
+
+---
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ArtuursG.png)](https://tryhackme.com/p/ArtuursG)
