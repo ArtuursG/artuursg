@@ -18,10 +18,16 @@ Whether it's matrix rotations or class hierarchies — I’m always eager to lea
 
 ---
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://tryhackme.com/p/ArtuursG">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ArtuursG.png" alt="TryHackMe Badge" />
-  </a>
-  <p>🖥️ TryHackMe has helped me dive deeper into practical computer networking and web security.<br>
-  Thanks to its hands-on approach, I now understand concepts like <i>datortīkli</i> and protocols much better.</p>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://tryhackme.com/p/ArtuursG">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/ArtuursG.png" alt="TryHackMe Badge" />
+      </a>
+    </td>
+    <td style="padding-left: 15px;">
+      🖥️ <strong>TryHackMe</strong> has helped me dive deeper into practical computer networking and web security.<br>
+      Thanks to its hands-on approach, I now understand concepts like <i>datortīkli</i> and protocols much better.
+    </td>
+  </tr>
+</table>
