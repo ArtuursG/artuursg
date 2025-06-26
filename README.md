@@ -6,15 +6,11 @@
 
 ### 🔧 What you'll find here:
 
-- 🧠 [**C++ Homeworks & Practice**](https://github.com/ArtuursG/HomeWorks_Coding_C)  
-  Covering OOP, polymorphism, operator overloading, STL templates, and simple game logic.
-- 🌐 [**Web Development Projects**](https://github.com/ArtuursG/HomeWorks_WEB)  
-  HTML/CSS/JS experiments and apps from my school WEB dev track.  
-  Additional web-related code also in [**CodeAC**](https://github.com/ArtuursG/CodeAC).
-- 🐍 [**Python Scripts**](https://github.com/ArtuursG/Python)  
-  Automation tools, number games, health checkers, and API-based visualizations.
-- 📁 [**CodeAC**](https://github.com/ArtuursG/CodeAC)  
-  A mixed bag of C++ and frontend code snippets built while learning and tinkering.
+- 🧠 [**C++ Homeworks & Practice**](https://github.com/ArtuursG/HomeWorks_Coding_C) - Covering OOP, polymorphism, operator overloading, STL templates, and simple game logic.
+- 🌐 [**Web Development Projects**](https://github.com/ArtuursG/HomeWorks_WEB) - HTML/CSS/JS experiments and apps from my school WEB dev track.
+    Additional web-related code also in [**CodeAC**](https://github.com/ArtuursG/CodeAC).
+- 🐍 [**Python Scripts**](https://github.com/ArtuursG/Python) - Automation tools, number games, health checkers, and API-based visualizations.
+- 📁 [**CodeAC**](https://github.com/ArtuursG/CodeAC) - A mixed bag of C++ and frontend code snippets built while learning and tinkering.
 
 ---
 
