@@ -1,6 +1,6 @@
 
 
-👋 Hey! I'm Arthur, I'm an **IT student** exploring the world of software development. This profile showcases my progress — from basic assignments to more complex C++ and Python projects.
+👋 Hey! I'm Arthur, I'm an **IT student** exploring the world of software development. This profile showcases my progress - from basic assignments to more complex C++ and Python projects.
 
 ---
 
@@ -15,7 +15,7 @@
 ---
 
 I enjoy solving problems, building functional code, and diving deeper into how things work. 
-Whether it's matrix rotations or class hierarchies — I’m always eager to learn more and improve. 🚀
+Whether it's matrix rotations or class hierarchies - I’m always eager to learn more and improve. 🚀
 
 ---
 
