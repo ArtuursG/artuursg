@@ -1,5 +1,3 @@
-
-
 👋 Hey! I'm Arthur, I'm an **IT student** exploring the world of software development. This profile showcases my progress - from basic assignments to more complex C++ and Python projects.
 
 ---
@@ -11,11 +9,12 @@
     Additional web-related code also in [**CodeAC**](https://github.com/ArtuursG/CodeAC).
 - 🐍 [**Python Scripts**](https://github.com/ArtuursG/Python) - Automation tools, number games, health checkers, and API-based visualizations.
 - 📁 [**CodeAC**](https://github.com/ArtuursG/CodeAC) - A mixed bag of C++ and frontend code snippets built while learning and tinkering.
+- 🌦 [**Weather Forecast - Model Comparison**](https://github.com/ArtuursG/METEO) - Meteorological forecast site comparing 16 global weather models simultaneously. Built with vanilla JS and Chart.js. Live at [artuursg.github.io/METEO](https://artuursg.github.io/METEO/).
 
 ---
 
 I enjoy solving problems, building functional code, and diving deeper into how things work. 
-Whether it's matrix rotations or class hierarchies - I’m always eager to learn more and improve. 🚀
+Whether it's matrix rotations or class hierarchies - I'm always eager to learn more and improve. 🚀
 
 ---
 
