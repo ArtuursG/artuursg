@@ -15,22 +15,15 @@
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![GIS](https://img.shields.io/badge/GIS-4CAF50?style=flat)
-![Esri](https://img.shields.io/badge/Esri-000000?style=flat)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
-![IBM MAS 9.1](https://img.shields.io/badge/IBM%20MAS-9.1-052FAD?style=flat&logo=ibm&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtuursG&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtuursG&layout=compact)
+![Python](https://img.shields.io/badge/Python-333333?style=flat)
+![SQL](https://img.shields.io/badge/SQL-333333?style=flat)
+![C++](https://img.shields.io/badge/C++-333333?style=flat)
+![HTML](https://img.shields.io/badge/HTML-333333?style=flat)
+![CSS](https://img.shields.io/badge/CSS-333333?style=flat)
+![GIS](https://img.shields.io/badge/GIS-333333?style=flat)
+![Esri](https://img.shields.io/badge/Esri-333333?style=flat)
+![QGIS](https://img.shields.io/badge/QGIS-333333?style=flat)
+![IBM MAS 9.1](https://img.shields.io/badge/IBM%20MAS%209.1-333333?style=flat)
 
 ---
 
