@@ -13,6 +13,27 @@
 
 ---
 
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS-4CAF50?style=flat)
+![Esri](https://img.shields.io/badge/Esri-000000?style=flat)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![IBM MAS 9.1](https://img.shields.io/badge/IBM%20MAS-9.1-052FAD?style=flat&logo=ibm&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtuursG&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtuursG&layout=compact)
+
+---
+
 I enjoy solving problems, building functional code, and diving deeper into how things work. 
 Whether it's matrix rotations or class hierarchies - I'm always eager to learn more and improve. 🚀
 
